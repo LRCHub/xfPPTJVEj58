@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "明日への扉",
+  "base_artist": "立花慎之介",
+  "createdAt": "2025-12-02T12:08:40.350450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日への扉",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/01_明日への扉_高木さん(CV_高橋李依).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日への扉",
+      "artist": "山田結衣(CV:髙橋ミナミ)&加瀬友香(CV:佐倉綾音)",
+      "has_synced": true,
+      "path": "select/02_明日への扉_山田結衣(CV_髙橋ミナミ)&加瀬友香(CV_佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明日への扉 (instrumental)",
+      "artist": "山田結衣(CV:髙橋ミナミ)&加瀬友香(CV:佐倉綾音)",
+      "has_synced": true,
+      "path": "select/03_明日への扉_(instrumental)_山田結衣(CV_髙橋ミナミ)&加瀬友香(CV_佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明日への扉",
+      "artist": "高木さん",
+      "has_synced": false,
+      "path": "select/04_明日への扉_高木さん.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "明日への扉",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": false,
+      "path": "select/05_明日への扉_高木さん(CV.高橋李依).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "明日への扉",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": false,
+      "path": "select/06_明日への扉_高木さん_(高橋李依).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "明日への扉 川嶋あい Self Cover Ver.",
+      "artist": "Ai Kawashima",
+      "has_synced": true,
+      "path": "select/07_明日への扉_川嶋あい_Self_Cover_Ver._Ai_Kawashima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日への扉",
+      "artist": "立花慎之介",
+      "has_synced": false,
+      "path": "select/pl_01_明日への扉_立花慎之介.txt"
+    }
+  ]
+}
